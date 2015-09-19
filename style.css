@@ -1,0 +1,38 @@
+/* Global override */
+html,body,h1,h2,h3,h4,p,div,a,ul,li,span {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    height: 60px;
+}
+#red{
+    background:red;
+    width:100%;
+}
+.parent{
+    width: 100%;
+}
+#yellow {
+    background: yellow;
+    width:33.3333%;
+    float:left;
+    height:400px;
+}
+#green{
+    background:green;
+    width:33.3333%;
+    float:left;
+    height:400px;
+}
+#blue{
+    background:blue;
+    width:33.3333%;
+    float:left;
+    height:400px;
+}
+#purple{
+    background:purple;
+    width:100%;
+    float:left;
+}
